@@ -1,0 +1,23 @@
+{
+  "name": "learning-lodash-es",
+  "version": "1.0.0",
+  "description": "Learning lodash es",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fonglezen/learning-lodash-es.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fonglezen/learning-lodash-es/issues"
+  },
+  "homepage": "https://github.com/fonglezen/learning-lodash-es#readme",
+  "dependencies": {
+    "lodash-es": "^4.17.15"
+  }
+}
